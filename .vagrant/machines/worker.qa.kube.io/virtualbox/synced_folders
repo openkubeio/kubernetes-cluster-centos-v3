@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"type":"virtualbox","guestpath":"/vagrant","hostpath":"D:/openkubeio/kubernetes-v3-centos-cluster-one-master","disabled":false,"__vagrantfile":true},"/data":{"type":"virtualbox","owner":"root","group":"root","guestpath":"/data","hostpath":"D:/openkubeio/data","disabled":false,"__vagrantfile":true}}}
